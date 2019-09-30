@@ -1,0 +1,1283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72b9ed61-3696-4b48-8d88-53e0ebdc3a81" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/engsoftware/project/controllers/EspecialidadeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/engsoftware/project/controllers/EspecialidadeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/engsoftware/project/controllers/PacienteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/engsoftware/project/controllers/PacienteController.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1636997344">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="64" />
+          <entry key="project.open.time.0" value="8" />
+          <entry key="project.open.time.1" value="12" />
+          <entry key="project.open.time.10" value="6" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.18" value="2" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.22" value="2" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.6" value="5" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="6" />
+          <entry key="project.open.time.9" value="8" />
+          <entry key="project.opened" value="64" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="4" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="1113" />
+          <entry key="properties" value="5" />
+          <entry key="txt" value="8" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="4" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="1113" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Properties" value="5" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="41" />
+          <entry key="java" value="12950" />
+          <entry key="properties" value="79" />
+          <entry key="txt" value="283" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="12950" />
+          <entry key="PLAIN_TEXT" value="324" />
+          <entry key="Properties" value="79" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-2046096838">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="109" />
+          <entry key="properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="109" />
+          <entry key="Properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="585" />
+          <entry key="properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="585" />
+          <entry key="Properties" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/Bootstrap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/controllers/PacienteController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/controllers/EspecialidadeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-85">
+              <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/controllers/MedicoController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="57" column="60" lean-forward="true" selection-start-line="57" selection-start-column="60" selection-end-line="57" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/models/Paciente.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>,</find>
+      <find>getFil</find>
+      <find>MedicoHoraFimFilter</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>,</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\PC\IdeaProjects\ProjectEngSoftware\src\main\java\engsoftware\project\services</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/services/PacienteFilterService.java" />
+        <option value="$PROJECT_DIR$/src/test/java/engsoftware/project/DemoTestsAplicationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/engsoftware/project/DemoTestsApplicationTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/ProjectApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/repositories/MedicoRepoI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/repositories/EspecialidadeRepoI.java" />
+        <option value="$PROJECT_DIR$/src/test/java/engsoftware/project/models/PacientTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/Medico/FilterObjectMedico.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/services/MedicoFilterService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/controllers/WorkTimeController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/models/Consulta.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/models/Especialidade.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/models/Paciente.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/models/WorkTime.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/Consulta/ConsultaEspecialidadeFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/Consulta/ConsultaHoraFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/Consulta/ConsultaMedicoFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/Consulta/ConsultaNrUtenteFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/Especialidade/EspecialidadeNomeFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/Medico/MedicoDiaFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/Medico/MedicoEspecialidadeFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/Medico/MedicoHoraFimFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/Medico/MedicoHoraInicioFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/Medico/MedicoNomeFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/Paciente/PacienteNomeFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/Paciente/PacienteNrUtenteFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/Paciente/PacienteProblematicoFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/services/ConsultaService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/services/ConsultaServiceI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/services/EspecialidadeService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/services/EspecialidadeServiceI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/services/MedicoService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/services/MedicoServiceI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/services/PacienteService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/services/PacienteServiceI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/services/WorktimeService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/services/WorkTimeServiceI.java" />
+        <option value="$PROJECT_DIR$/src/test/java/engsoftware/project/models/PacienteTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/Bootstrap.java" />
+        <option value="$PROJECT_DIR$/src/test/java/engsoftware/project/controllers/MedicoControllerUnitTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/Consulta/ConsultaDiaFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/consulta/ConsultaDiaFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/controllers/ConsultaController.java" />
+        <option value="$PROJECT_DIR$/src/test/java/engsoftware/project/controllers/MedicoControllerIntegrationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/engsoftware/project/ProjectApplicationTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/models/Medico.java" />
+        <option value="$PROJECT_DIR$/src/test/java/engsoftware/project/models/MedicoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/controllers/MedicoController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/controllers/EspecialidadeController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/engsoftware/project/controllers/PacienteController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="project" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="project" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-24" />
+    <option name="width" value="1383" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProjectEngSoftware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectEngSoftware" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectEngSoftware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectEngSoftware" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectEngSoftware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectEngSoftware" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectEngSoftware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectEngSoftware" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectEngSoftware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectEngSoftware" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectEngSoftware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectEngSoftware" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectEngSoftware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectEngSoftware" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectEngSoftware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectEngSoftware" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="isprese&#9;PSI&#9;JAVA://java.util.Optional#isPresent" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547416484036" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="engsoftware.project.controllers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ProjectApplication">
+    <configuration name="MedicoControllerIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectEngSoftware" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="engsoftware.project.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="engsoftware.project.controllers" />
+      <option name="MAIN_CLASS_NAME" value="engsoftware.project.controllers.MedicoControllerIntegrationTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MedicoControllerUnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectEngSoftware" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="engsoftware.project.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="engsoftware.project.controllers" />
+      <option name="MAIN_CLASS_NAME" value="engsoftware.project.controllers.MedicoControllerUnitTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MedicoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectEngSoftware" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="engsoftware.project.models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="engsoftware.project.models" />
+      <option name="MAIN_CLASS_NAME" value="engsoftware.project.models.MedicoTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PacienteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectEngSoftware" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="engsoftware.project.models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="engsoftware.project.models" />
+      <option name="MAIN_CLASS_NAME" value="engsoftware.project.models.PacienteTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="project [jar:jar]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="jar:jar" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="ProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ProjectEngSoftware" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="engsoftware.project.ProjectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ProjectApplication" />
+      <item itemvalue="JUnit.MedicoTest" />
+      <item itemvalue="JUnit.PacienteTest" />
+      <item itemvalue="Maven.project [jar:jar]" />
+      <item itemvalue="JUnit.MedicoControllerIntegrationTest" />
+      <item itemvalue="JUnit.MedicoControllerUnitTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MedicoTest" />
+        <item itemvalue="JUnit.PacienteTest" />
+        <item itemvalue="JUnit.MedicoControllerIntegrationTest" />
+        <item itemvalue="JUnit.MedicoControllerUnitTest" />
+        <item itemvalue="Maven.project [jar:jar]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72b9ed61-3696-4b48-8d88-53e0ebdc3a81" name="Default Changelist" comment="" />
+      <created>1543679366120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543679366120</updated>
+      <workItem from="1543679372395" duration="8709000" />
+      <workItem from="1543690150654" duration="476000" />
+      <workItem from="1543692251782" duration="1060000" />
+      <workItem from="1543693488055" duration="101000" />
+      <workItem from="1543757460985" duration="848000" />
+      <workItem from="1543760671088" duration="722000" />
+      <workItem from="1543763074531" duration="2197000" />
+      <workItem from="1543766439656" duration="75000" />
+      <workItem from="1543841665187" duration="9015000" />
+      <workItem from="1543931723516" duration="293000" />
+      <workItem from="1544008376865" duration="5824000" />
+      <workItem from="1544017087597" duration="1406000" />
+      <workItem from="1544026597297" duration="15000" />
+      <workItem from="1544094035182" duration="369000" />
+      <workItem from="1544098718446" duration="334000" />
+      <workItem from="1544105818459" duration="5795000" />
+      <workItem from="1544173957031" duration="504000" />
+      <workItem from="1544440770180" duration="3528000" />
+      <workItem from="1544452156361" duration="2379000" />
+      <workItem from="1544477994421" duration="63000" />
+      <workItem from="1544478370753" duration="2707000" />
+      <workItem from="1544536857162" duration="1558000" />
+      <workItem from="1544549824490" duration="6997000" />
+      <workItem from="1544622937645" duration="2953000" />
+      <workItem from="1544625998115" duration="165000" />
+      <workItem from="1544638930753" duration="1587000" />
+      <workItem from="1544709449225" duration="781000" />
+      <workItem from="1544778676312" duration="453000" />
+      <workItem from="1544885979888" duration="11209000" />
+      <workItem from="1544967496652" duration="7347000" />
+      <workItem from="1544978738601" duration="284000" />
+      <workItem from="1545063405926" duration="3888000" />
+      <workItem from="1545068099385" duration="1470000" />
+      <workItem from="1545141535649" duration="4952000" />
+      <workItem from="1545152531660" duration="7318000" />
+      <workItem from="1545303896005" duration="17000" />
+      <workItem from="1545317188807" duration="121000" />
+      <workItem from="1545318191626" duration="39000" />
+      <workItem from="1545318386781" duration="179000" />
+      <workItem from="1545318596059" duration="88000" />
+      <workItem from="1545576469764" duration="2358000" />
+      <workItem from="1546509280285" duration="6086000" />
+      <workItem from="1546515598772" duration="1493000" />
+      <workItem from="1546518083678" duration="538000" />
+      <workItem from="1546526358183" duration="2167000" />
+      <workItem from="1546530708795" duration="61000" />
+      <workItem from="1546530791959" duration="180000" />
+      <workItem from="1546531044449" duration="531000" />
+      <workItem from="1546532551478" duration="84000" />
+      <workItem from="1546613091133" duration="1273000" />
+      <workItem from="1546615773670" duration="126000" />
+      <workItem from="1546616102635" duration="1952000" />
+      <workItem from="1546956252846" duration="1471000" />
+      <workItem from="1547124874642" duration="2285000" />
+      <workItem from="1547127343558" duration="14623000" />
+      <workItem from="1547212669671" duration="18145000" />
+      <workItem from="1547234916049" duration="1007000" />
+      <workItem from="1547237800990" duration="6493000" />
+      <workItem from="1547247574276" duration="1471000" />
+      <workItem from="1547249325611" duration="803000" />
+      <workItem from="1547376818366" duration="602000" />
+      <workItem from="1547387235330" duration="3136000" />
+      <workItem from="1547393178794" duration="643000" />
+      <workItem from="1547396127728" duration="380000" />
+      <workItem from="1547397881077" duration="1852000" />
+      <workItem from="1547403635829" duration="4460000" />
+      <workItem from="1547415090837" duration="1399000" />
+      <workItem from="1547417036365" duration="5325000" />
+    </task>
+    <task id="LOCAL-00001" summary="worktime ws1">
+      <created>1545145097398</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1545145097398</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <created>1545145208605</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1545145208605</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit">
+      <created>1545148615965</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1545148615965</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit">
+      <created>1545148663841</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1545148663841</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit">
+      <created>1545148694248</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1545148694248</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit">
+      <created>1545155959079</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1545155959079</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit">
+      <created>1545156742158</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1545156742158</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit">
+      <created>1545157267618</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1545157267618</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit">
+      <created>1545318681671</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1545318681671</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commit">
+      <created>1546618048934</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1546618048934</updated>
+    </task>
+    <task id="LOCAL-00011" summary="commit">
+      <created>1547128259050</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1547128259050</updated>
+    </task>
+    <task id="LOCAL-00012" summary="commit">
+      <created>1547212731869</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1547212731869</updated>
+    </task>
+    <task id="LOCAL-00013" summary="commit">
+      <created>1547216908447</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1547216908447</updated>
+    </task>
+    <task id="LOCAL-00014" summary="commit">
+      <created>1547235923339</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1547235923339</updated>
+    </task>
+    <task id="LOCAL-00015" summary="commit">
+      <created>1547247077633</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1547247077633</updated>
+    </task>
+    <task id="LOCAL-00016" summary="commit">
+      <created>1547247093608</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1547247093608</updated>
+    </task>
+    <task id="LOCAL-00017" summary="commit">
+      <created>1547396141337</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1547396141337</updated>
+    </task>
+    <task id="LOCAL-00018" summary="commit">
+      <created>1547398032616</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1547398032616</updated>
+    </task>
+    <task id="LOCAL-00019" summary="commit">
+      <created>1547398767658</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1547398767658</updated>
+    </task>
+    <task id="LOCAL-00020" summary="commit">
+      <created>1547406619799</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1547406619799</updated>
+    </task>
+    <task id="LOCAL-00021" summary="commit">
+      <created>1547408235947</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1547408235947</updated>
+    </task>
+    <task id="LOCAL-00022" summary="commit">
+      <created>1547408556440</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1547408556440</updated>
+    </task>
+    <task id="LOCAL-00023" summary="commit">
+      <created>1547409265543</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1547409265543</updated>
+    </task>
+    <task id="LOCAL-00024" summary="commit">
+      <created>1547409659329</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1547409659329</updated>
+    </task>
+    <task id="LOCAL-00025" summary="commit">
+      <created>1547410084866</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1547410084866</updated>
+    </task>
+    <task id="LOCAL-00026" summary="commit">
+      <created>1547419204006</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1547419204006</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MedicoTest - 2019.01.13 at 21h 39m 33s.xml">
+      <configuration name="MedicoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MedicoTest - 2019.01.13 at 21h 41m 19s.xml">
+      <configuration name="MedicoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MedicoTest - 2019.01.13 at 21h 41m 38s.xml">
+      <configuration name="MedicoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MedicoTest - 2019.01.13 at 21h 43m 24s.xml">
+      <configuration name="MedicoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MedicoTest - 2019.01.13 at 21h 44m 37s.xml">
+      <configuration name="MedicoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MedicoTest - 2019.01.13 at 21h 45m 19s.xml">
+      <configuration name="MedicoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MedicoTest - 2019.01.13 at 21h 45m 36s.xml">
+      <configuration name="MedicoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MedicoTest - 2019.01.13 at 21h 46m 00s.xml">
+      <configuration name="MedicoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MedicoTest - 2019.01.13 at 21h 46m 15s.xml">
+      <configuration name="MedicoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MedicoTest - 2019.01.13 at 21h 46m 55s.xml">
+      <configuration name="MedicoTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="178770000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27854252" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3291815" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3505338" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3985765" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3291815" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32793522" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="worktime ws1" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/consulta/ConsultaHoraFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/consulta/ConsultaMedicoFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/consulta/ConsultaNrUtenteFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/consulta/FilterObjectConsulta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/especialidade/EspecialidadeFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/especialidade/EspecialidadeNomeFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/especialidade/FilterObjectEspecialidade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/paciente/FilterObjectPaciente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/paciente/PacienteFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/paciente/PacienteNomeFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/paciente/PacienteNrUtenteFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/paciente/PacienteProblematicoFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/AndFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/FilterI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/ConsultaFilterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/ConsultaServiceI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/ConsultaService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/EspecialidadeFilterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/EspecialidadeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/EspecialidadeServiceI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/MedicoFilterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/PacienteFilterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/PacienteService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/PacienteServiceI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" selection-start-line="10" selection-end-line="13" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/WorkTimeServiceI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" selection-start-line="9" selection-end-line="12" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/engsoftware/project/models/PacienteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/MedicoServiceI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/medico/FilterObjectMedico.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/medico/MedicoDiaFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/medico/MedicoEspecialidadeFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/medico/MedicoFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/medico/MedicoHoraFimFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/medico/MedicoHoraInicioFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/medico/MedicoNomeFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/engsoftware/project/controllers/MedicoControllerUnitTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/filters/consulta/ConsultaDiaFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/engsoftware/project/ProjectApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/engsoftware/project/controllers/MedicoControllerIntegrationTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/WorktimeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/models/Medico.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="96" column="74" lean-forward="true" selection-start-line="96" selection-start-column="74" selection-end-line="96" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/engsoftware/project/models/MedicoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="49" column="55" lean-forward="true" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/Bootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/services/MedicoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="72" column="28" selection-start-line="72" selection-start-column="28" selection-end-line="72" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/models/Especialidade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" selection-start-line="7" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/controllers/ConsultaController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="43" column="40" lean-forward="true" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/controllers/WorkTimeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/models/Consulta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/models/Paciente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/controllers/MedicoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="57" column="60" lean-forward="true" selection-start-line="57" selection-start-column="60" selection-end-line="57" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/controllers/EspecialidadeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/engsoftware/project/controllers/PacienteController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ProjectEngSoftware</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
