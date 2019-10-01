@@ -1,2 +1,2 @@
-# ProjectEngSoftware
-Projeto da disciplina "Engenharia de Software"
+# ProjectSoftwareEng
+"Software Engineering" course project
